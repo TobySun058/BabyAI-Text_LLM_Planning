@@ -36,5 +36,5 @@ response: ChatResponse = chat(
 
 print(response['message']['content'])
 
-# Few shot examples to deepseek
+
 

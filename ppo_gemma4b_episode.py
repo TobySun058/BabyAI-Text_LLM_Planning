@@ -1,4 +1,4 @@
-# PPO-enabled BabyAI training script with Gemma-3-4b-it and discounted returns
+# PPO train gemma-4b by getting reward after each episode
 import gym
 import babyai_text
 import torch
