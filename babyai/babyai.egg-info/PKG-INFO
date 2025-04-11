@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: babyai
+Version: 0.1.0
+License: BSD 3-clause
+Keywords: memory,environment,agent,rl,openaigym,openai-gym,gym
+License-File: LICENSE
+Requires-Dist: gym<0.26.2,>=0.9.6
+Requires-Dist: numpy>=1.17.0
+Requires-Dist: torch>=0.4.1
+Requires-Dist: blosc>=1.5.1
+Dynamic: keywords
+Dynamic: license
+Dynamic: requires-dist

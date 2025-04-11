@@ -1,0 +1,5 @@
+colorama
+termcolor
+matplotlib
+ipython
+numpy==1.23.1

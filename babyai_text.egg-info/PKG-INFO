@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: babyai_text
+Version: 0.1.0
+Summary: A text-only extension of BabyAI
+Keywords: babyai,text environment
+Requires-Dist: colorama
+Requires-Dist: termcolor
+Requires-Dist: matplotlib
+Requires-Dist: ipython
+Requires-Dist: numpy==1.23.1
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: summary

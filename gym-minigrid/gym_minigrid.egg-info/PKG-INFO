@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: gym_minigrid
+Version: 1.0.1
+Summary: Minimalistic gridworld package for OpenAI Gym
+Home-page: https://github.com/maximecb/gym-minigrid
+Keywords: memory,environment,agent,rl,openaigym,openai-gym,gym
+License-File: LICENSE
+Requires-Dist: gym>=0.9.6
+Requires-Dist: numpy>=1.15.0
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: summary

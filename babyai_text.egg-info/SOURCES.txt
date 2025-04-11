@@ -1,0 +1,10 @@
+README.md
+setup.py
+babyai_text/__init__.py
+babyai_text.egg-info/PKG-INFO
+babyai_text.egg-info/SOURCES.txt
+babyai_text.egg-info/dependency_links.txt
+babyai_text.egg-info/requires.txt
+babyai_text.egg-info/top_level.txt
+babyai_text/levels/__init__.py
+babyai_text/levels/mixed_seq_levels.py
